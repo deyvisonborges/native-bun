@@ -1,4 +1,4 @@
-export type HTTP_METHODS = 
+export type HttpMethods = 
 | "GET" 
 | "POST" 
 | "PATCH" 
