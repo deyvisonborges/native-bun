@@ -1,7 +1,10 @@
-# bun-api
+# Native Bun
 
-To install dependencies:
+<hr />
 
+> Esse é um projeto educativo e visa abrir um pouco a mente em como construir um pequeno framework pra utilizar todos os recursos do Bun.
+
+Install dependencies:
 ```bash
 bun install
 ```
@@ -9,12 +12,5 @@ bun install
 To run:
 
 ```bash
-bun run start 
+bun run --watch example/meuapp.ts   
 ```
-or
-
-```bash
-npm run start 
-```
-
-This project was created using `bun init` in bun v1.0.1. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
